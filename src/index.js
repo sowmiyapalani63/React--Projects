@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+
 import './Assests/global.css'
 import App from './App';
 import 'bootstrap-icons/font/bootstrap-icons.css';
